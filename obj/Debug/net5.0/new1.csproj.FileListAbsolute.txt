@@ -1,0 +1,17 @@
+/Users/mcbooks/Desktop/Tecinus/new1/bin/Debug/net5.0/new1.deps.json
+/Users/mcbooks/Desktop/Tecinus/new1/bin/Debug/net5.0/new1.runtimeconfig.json
+/Users/mcbooks/Desktop/Tecinus/new1/bin/Debug/net5.0/new1.runtimeconfig.dev.json
+/Users/mcbooks/Desktop/Tecinus/new1/bin/Debug/net5.0/new1.dll
+/Users/mcbooks/Desktop/Tecinus/new1/bin/Debug/net5.0/ref/new1.dll
+/Users/mcbooks/Desktop/Tecinus/new1/bin/Debug/net5.0/new1.pdb
+/Users/mcbooks/Desktop/Tecinus/new1/obj/Debug/net5.0/new1.csproj.AssemblyReference.cache
+/Users/mcbooks/Desktop/Tecinus/new1/obj/Debug/net5.0/new1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mcbooks/Desktop/Tecinus/new1/obj/Debug/net5.0/new1.AssemblyInfoInputs.cache
+/Users/mcbooks/Desktop/Tecinus/new1/obj/Debug/net5.0/new1.AssemblyInfo.cs
+/Users/mcbooks/Desktop/Tecinus/new1/obj/Debug/net5.0/new1.csproj.CoreCompileInputs.cache
+/Users/mcbooks/Desktop/Tecinus/new1/obj/Debug/net5.0/new1.dll
+/Users/mcbooks/Desktop/Tecinus/new1/obj/Debug/net5.0/ref/new1.dll
+/Users/mcbooks/Desktop/Tecinus/new1/obj/Debug/net5.0/new1.pdb
+/Users/mcbooks/Desktop/Tecinus/new1/obj/Debug/net5.0/new1.genruntimeconfig.cache
+/Users/mcbooks/Desktop/Tecinus/new1/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/mcbooks/Desktop/Tecinus/new1/obj/Debug/net5.0/new1.csproj.CopyComplete

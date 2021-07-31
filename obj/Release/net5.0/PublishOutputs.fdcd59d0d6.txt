@@ -1,0 +1,5 @@
+/Users/mcbooks/Desktop/Tecinus/new1/bin/Release/net5.0/publish/new1.dll
+/Users/mcbooks/Desktop/Tecinus/new1/bin/Release/net5.0/publish/new1.deps.json
+/Users/mcbooks/Desktop/Tecinus/new1/bin/Release/net5.0/publish/new1.runtimeconfig.json
+/Users/mcbooks/Desktop/Tecinus/new1/bin/Release/net5.0/publish/new1.pdb
+/Users/mcbooks/Desktop/Tecinus/new1/bin/Release/net5.0/publish/Newtonsoft.Json.dll

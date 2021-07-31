@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k7xTTzF/VGIyEHTvxU5qsPikE0svk9X+Edgow709iBXMpM/eC/OTMMCqbY1ZfAatm9uklICkNRUSHXYNOui3sw==",
+  "success": true,
+  "projectFilePath": "/Users/mcbooks/Desktop/Tecinus/new1/new1.csproj",
+  "expectedPackageFiles": [
+    "/Users/mcbooks/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
